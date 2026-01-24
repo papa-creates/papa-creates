@@ -16,26 +16,19 @@ I craft **art-based games** and **e-commerce websites** that bring creative visi
 
 ## 🎯 What I'm Building
 
-- 🎨 **Art-based games** that blend creativity with interactive experiences
-- 🛒 **E-commerce platforms** that help creators sell their work
-
+- 🎨 **Art-based games** 
+- 🛒 **E-commerce platforms**
+- 📍 **micro-service apps**
 ---
 
 ## 🎸 Beyond the Code
 
-When I'm not building, you'll find me:
-- 👨‍👩‍👧‍👦 Spending time with family
-- 🎵 Exploring music
-- 🎨 Creating art
-- 📚 Diving into history
+When I'm not building, you won't find me.
+
 
 ---
 
-## 📬 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-info@lovingartandcompany.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@lovingartandcompany.com)
-
-💼 **Open to opportunities and collaborations** — feel free to reach out!
 
 ---
 
