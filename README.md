@@ -1,6 +1,4 @@
-# Hey there, I'm Papa Creates 👋
-
-### Builder | Creator | Family Man
+# I Papa Creates 🤓
 
 I craft **art-based games** and **e-commerce websites** that bring creative visions to life.
 
